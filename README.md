@@ -55,11 +55,16 @@ Here are a few technologies I work with regularly:
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!-- ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
 
-<!--
 ---
 
 ## 🔥 My GitHub Stats
 
+draakusa.github.io
+
+* Commit: [![Commit](https://img.shields.io/github/last-commit/DraakUSA/draakusa.github.io)](https://github.com/DraakUSA/draakusa.github.io/commits/main/)
+* Deployment: [![Deployment](https://img.shields.io/github/deployments/DraakUSA/draakusa.github.io/github-pages)](https://draakusa.github.io/)
+
+<!--
 These dynamic cards automatically update to reflect your activity.
 
 [![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DraakUSA)](https://github.com/DraakUSA)
@@ -68,6 +73,7 @@ These dynamic cards automatically update to reflect your activity.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DraakUSA&layout=compact&theme=vision-friendly-light)](https://github.com/DraakUSA)
 -->
+
 ---
 
 *Find me on [LinkedIn](http://www.linkedin.com/in/dewerk) <!-- | [Your Personal Website/Portfolio]([Your Portfolio Link]) | [Twitter/X]([Your Twitter/X Profile Link]) -->*
