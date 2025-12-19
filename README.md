@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
+     ____                  _    _   _ ____    _    
+    |  _ \ _ __ __ _  __ _| | _| | | / ___|  / \   
+    | | | | '__/ _` |/ _` | |/ / | | \___ \ / _ \  
+    | |_| | | | (_| | (_| |   <| |_| |___) / ___ \ 
+    |____/|_|  \__,_|\__,_|_|\_\\___/|____/_/   \_\
+
+```                                                  
+
 # Hi, I'm Paul-Joseph de Werk 👋
 
 I'm a passionate **Senior Software Engineer** focused on building elegant, scalable solutions and constantly learning new technologies. Welcome to my corner of GitHub!
