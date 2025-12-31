@@ -68,7 +68,7 @@ Here are a few technologies I work with regularly:
 
 ## 🔥 My GitHub Stats
 
-draakusa.github.io
+[draakusa.github.io](https://github.com/DraakUSA/draakusa.github.io)
 
 * Commit: [![Commit](https://img.shields.io/github/last-commit/DraakUSA/draakusa.github.io)](https://github.com/DraakUSA/draakusa.github.io/commits/main/)
 * Deployment: [![Deployment](https://img.shields.io/github/deployments/DraakUSA/draakusa.github.io/github-pages)](https://draakusa.github.io/)
@@ -85,4 +85,4 @@ These dynamic cards automatically update to reflect your activity.
 
 ---
 
-*Find me on [LinkedIn](http://www.linkedin.com/in/dewerk) <!-- | [Your Personal Website/Portfolio]([Your Portfolio Link]) | [Twitter/X]([Your Twitter/X Profile Link]) -->*
+*Find me on [LinkedIn](https://www.linkedin.com/in/dewerk) <!-- | [Your Personal Website/Portfolio]([Your Portfolio Link]) | [Twitter/X]([Your Twitter/X Profile Link]) -->*
